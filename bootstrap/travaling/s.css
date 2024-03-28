@@ -1,0 +1,275 @@
+
+nav{
+    width: 1060.96px;
+    height: 90.93px;
+    display: flex;
+    justify-content: space-between;
+}
+.navbar-collapse{
+    width:638px ;
+    height: 18px;
+display: flex;
+justify-content: space-between;
+}
+main{
+    width: 1060.96px;
+    height: 309.6px;
+    background-image: url('../travaling/img/backmain.svg');
+    background-position: center;
+    background-size: cover;
+ }
+ .card-body{
+   width: 1000px;
+   height: 250px;
+   color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+ }
+ .main__texts--sectipon{
+    width: 1060.09px;
+    height: 500.8px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+ }
+ section{
+    width: 1060px;
+    height: 500px;
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .section__to-get{
+    width: 800px;
+    height: 400px;
+    display: flex;
+    align-items: center;   
+    justify-content: space-between;
+ }
+ .section__text{
+    max-width: 300px;
+    width: 400px;
+    height: 400px;
+ }
+ .section__icons{
+    width: 400px;
+    height: 400px;
+    position: relative;
+ }
+ .icon__first{
+    width: 180px;
+    background-color: white;
+    height: 180px;
+    text-align: center;
+    position: absolute;
+    left: 30px;
+    border-radius: 10px;
+    top: 10px;
+    box-shadow: 0 0 10px rgb(146, 157, 165) ;
+    z-index: 5;
+ }
+ .i__1{
+    width: 100%;
+    height: 100px;
+    background-image: url('./img/i__1.png');
+    background-size: contain;
+    padding: 0 auto;
+    background-repeat: no-repeat;
+    background-position: center;}
+ .pf{
+    font-size: 12px;
+    text-transform: uppercase;
+ }
+
+ .icon__second{
+    width: 180px;
+    height: 180px;
+    box-shadow: 0 0 10px rgb(146, 157, 165) ;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    position: absolute;
+    left: 200px;
+    top: 100px;
+    z-index: 4;
+    background-color: #fff;
+ }
+ .i__2{
+    width: 100%;
+    height: 100px;
+    background-image: url('./img/002-customer-review\ 1.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0 auto;
+ }
+
+ .icon__third{
+    width: 180px;
+    height: 180px;
+    box-shadow: 0 0 10px rgb(146, 157, 165) ;
+    text-align: center;
+    position: absolute;
+    background-color: white;
+    border-radius: 10px;
+    left: 30px;
+    top: 200px;
+    z-index: 3;
+ }
+ .i__3{
+    width: 100%;
+    height: 100px;
+    background-image: url('./img/003-medal\ 1.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0 auto;
+ }
+ .f{
+    font-size: 60px;
+    color: orange;
+ }
+ .b{
+   position: absolute;
+   left: 165px;
+   bottom: 50px;
+ }
+ .a{
+   position: absolute;
+   left: 15px;
+   top: -20px;
+   z-index: 6;
+ }
+.c{
+   position: absolute;
+   bottom: -15px;
+   left: 15px;
+   z-index: 7;
+}
+.text{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   position: relative;
+}
+.dom{
+   font-weight: bold;
+   font-size: 25px;
+}
+.dom2{
+   color: orange;
+   font-size: medium;
+}
+.images{
+   width: 800px;
+    height: 420px;
+    display: flex;
+    gap: 10px;
+    justify-content: space-evenly;
+}
+.gap1{
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+}
+.gap{
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+}
+.gap2{
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+}
+.p{
+   width: 240px;
+   height: 130px;
+   display: flex;
+   flex-direction: column;
+   text-align: center;
+   align-items: center;
+   justify-content: center;
+}
+.photo1{
+   background-image: url('./img/photo1.svg');
+   background-size: cover;  
+}
+.photo2{
+   background-image: url('./img/photo2.svg');
+   background-size: cover;
+}
+.photo3{
+   background-image: url('./img/photo3.svg');
+   background-size: cover;
+}
+.photo4{
+   background-image: url('./img/photo4.svg');
+   background-size: cover;
+}
+.photo5{
+   background-image: url('./img/photo5.svg');
+   background-size: cover;
+}
+.photo6{
+   background-image: url('./img/photo6.svg');
+   background-size: cover;
+}
+.photo7{
+   background-image: url('./img/photo7.svg');
+   background-size: cover;
+}
+.photo8{
+   background-image: url('./img/photo8.svg');
+   background-size: cover;
+}
+.photo9{
+   background-image: url('./img/photo9.svg');
+   background-size: cover;
+}
+.for{
+   font-size: 20px;
+   color: #fff;
+}
+.for1{
+   font-size: 9px;
+   color: orange;
+   font-weight: bold;
+}
+.main__block{
+   width: 100%;
+   position: relative;
+}
+.block1{
+   width: 100%;
+   height:150px;
+   border: 1px solid red;
+}
+.block2{
+   width: 100%;
+   height: 350px;
+   border: 1px solid blue;
+}
+.yellow1{
+   width: 150px;
+   height: 80px;
+   background-color: orange;
+}
+.kavych{
+font-size: 150px;
+position: absolute;
+top: -170px;
+left: 80px;
+}
+.what{
+}
+.navigator{
+   width: 200px;
+   height: 100px;   
+   position: absolute;
+   left: 860px;
+   top: 90px;
+}
